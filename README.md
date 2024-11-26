@@ -1,10 +1,10 @@
-# DataAD_FinalProject
+# Data in the African Diaspora - Final Project - Myles Ndiritu
 
-# Research Question:
+## Research Question:
 
 Does MasterCard's Inclusive Growth Score dataset fairly represent marginilized communities in Georgia?
 
-# Datasets
+## Datasets
 
 1. Mastercard Inclusive Growth Score Data
 
